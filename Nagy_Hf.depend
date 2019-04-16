@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1555285525 source:c:\users\abord\documents\programing\c++ projects\nagy_hf\graph.cpp
+	"graph.h"
+	<fstream>
+	<string>
+	<sstream>
+
+1555285727 c:\users\abord\documents\programing\c++ projects\nagy_hf\graph.h
+	<iostream>
+	<string>
+	"node.h"
+
+1555171724 source:c:\users\abord\documents\programing\c++ projects\nagy_hf\node.cpp
+	"graph.h"
+	<fstream>
+	<string>
+	<sstream>
+
+1555368518 source:c:\users\abord\documents\programing\c++ projects\nagy_hf\main.cpp
+	<cstdlib>
+	<crtdbg.h>
+	<iostream>
+	<fstream>
+	<string>
+	"graph.h"
+	"node.h"
+	"package.h"
+
+1555171724 c:\users\abord\documents\programing\c++ projects\nagy_hf\node.h
+	<iostream>
+	<string>
+
+1555369806 c:\users\abord\documents\programing\c++ projects\nagy_hf\package.h
+	<string>
+
+1555356109 source:c:\users\abord\documents\programing\c++ projects\nagy_hf\control center.cpp
+
+1555356142 source:c:\users\abord\documents\programing\c++ projects\nagy_hf\package.cpp
+
